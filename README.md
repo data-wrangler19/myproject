@@ -5,6 +5,6 @@ The project also consists of the notes related to various challenges found while
 
 TEAM MEMBERS:
 1. SIDDHARTH RANA
-2. SUDHANSHU
+2. SUDHANSHU KAUSHIK
 3. MRINAL JYOTI KUMAR
 4. NEHA THAKKAR
