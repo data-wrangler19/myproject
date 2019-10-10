@@ -1,7 +1,13 @@
 # DATA WRANGLING PROJECT (TEAM ORION)
+# PROJECT TITLE: DEATH RATE ANALYSIS IN USA DUE TO DRUG OVERDOSE
 This Project deals with performing data cleaning and data visualization using R and Julia tools.
-The project consists of the datasets (in .csv format), .html files, the R and Julia codes
-The project also consists of the notes related to various challenges found while dealing with the project.
+
+The projects includes the following files:
+1) Dataset files (in .csv format), webpage
+2) The Jupyter Notebooks for R and Julia
+3) The powerpoint file for presentation
+4) The completed report in .pdf format
+
 
 TEAM MEMBERS:
 1. SIDDHARTH RANA
